@@ -4,7 +4,7 @@ coverage==7.4.1
 Deprecated==1.2.14
 dnspython==2.6.0
 fastapi==0.109.2
-idna==3.6
+idna==3.7
 importlib-resources==6.1.1
 limits==3.8.0
 motor==3.3.2
